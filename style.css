@@ -1,0 +1,21 @@
+
+::selection{
+    background-color: rgb(10, 107, 45);
+    color: white;
+}
+.text-border{
+    background-color: transparent;
+    -webkit-text-stroke: 1px white;
+}
+
+
+/* Fade-in and fade-out transition */
+.transition-opacity {
+    transition-property: opacity;
+}
+
+/* Show description on hover */
+.peer-hover\:opacity-100:hover + .peer-hover\:block {
+    opacity: 1;
+}
+

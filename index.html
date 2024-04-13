@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="https://portal.governorsindh.com/_next/static/media/giaic.9ff76f62.png" type="image/x-icon">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>100 Days Code Tracker</title>
+</head>
+
+<body class="bg-gray-950">
+    <main class="flex justify-center align-middle">
+        <section class="w-[95%] md:w-[30%] mt-14 bg-gray-900 p-5 rounded-md">
+
+            <h3 class="text-center text-white text-4xl md:text-3xl font-bold">100 Days Tracker</h3>
+            <p class="text-center text-sm text-gray-300 ">Governor Initiative Coding Chellenge</p>
+
+            <h3 class="py-5 text-5xl font-semibold text-center"><span id="currentDay"
+                    class="text-border text-transparent">12</span>
+                <span class="text-white text-sm font-semibold -ml-3">/ 100 Days</span>
+            </h3>
+
+            <div id="progress-placeholder" title="70% remaining"
+                class="w-[80%] mx-auto my-2 h-2 rounded-full bg-gray-800 border-1 border-gray-700">
+                <div id="progress-achieved" title="30% Completed"
+                    class="w-[30%] h-full bg-green-600/50 shadow-lg shadow-green-600 rounded-md"></div>
+            </div>
+
+
+            <div id="tasks" class="pt-5 ">
+                <h6 class="text-white text-xl font-semibold">Today Tasks</h6>
+                <div id="task" class="pl-6 mt-2">
+                    <div id="task-title" class="bg-blue-600 text-xl md:text-sm p-1 pl-2 text-white rounded-md peer  ">
+                        Task 46
+                    </div>
+                    <div id="task-description"
+                        class="  hidden peer-hover:block bg-blue-950 text-sm my-2 p-1 text-white rounded-md">
+                        Create a Script Tag
+                    </div>
+                </div>
+            </div>
+            <p class="text-center pt-3 text-sm text-gray-500">3 Tasks per day!</p>
+            <button onclick="markAllTasksAsCompleted()"
+                class="w-[50%] ml-[25%] my-5 hover:bg-blue-600 hover:text-white hover:border-transparent bg-transparent text-white border border-white rounded-md ">Mark
+                all as done!</button>
+            <div class="hidden">
+                <h3>All Done!</h3>
+            </div>
+        </section>
+    </main>
+</body>
+<script src="script.js"></script>
+
+</html>

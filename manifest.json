@@ -1,0 +1,22 @@
+{
+    "name": "100 Days Tracker",
+    "short_name": "Chellenge Tracker",
+    "description": "This is simple web app that keep record and of Governor Initiative's 100 Days chellange",
+    "icons": [
+      {
+        "src": "https://portal.governorsindh.com/_next/static/media/giaic.9ff76f62.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "https://portal.governorsindh.com/_next/static/media/giaic.9ff76f62.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "index.html",
+    "display": "standalone",
+    "theme_color": "rgb(3 7 18)",
+    "background_color": "rgb(3 7 18)"
+  }
+  

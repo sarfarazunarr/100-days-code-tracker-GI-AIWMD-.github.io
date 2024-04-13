@@ -1,0 +1,87 @@
+[
+    {
+        "day": 1,
+        "tasks": [
+            {
+                "task_title": 1,
+                "task_description": "Task 1 for day 1"
+            },
+            {
+                "task_title": 2,
+                "task_description": "Task 2 for day 1"
+            },
+            {
+                "task_title": 3,
+                "task_description": "Task 3 for day 1"
+            }
+        ]
+    },
+    {
+        "day": 2,
+        "tasks": [
+            {
+                "task_title": 1,
+                "task_description": "Task 1 for day 2"
+            },
+            {
+                "task_title": 2,
+                "task_description": "Task 2 for day 2"
+            },
+            {
+                "task_title": 3,
+                "task_description": "Task 3 for day 2"
+            }
+        ]
+    },
+    {
+        "day": 3,
+        "tasks": [
+            {
+                "task_title": 1,
+                "task_description": "Task 1 for day 3"
+            },
+            {
+                "task_title": 2,
+                "task_description": "Task 2 for day 3"
+            },
+            {
+                "task_title": 3,
+                "task_description": "Task 3 for day 3"
+            }
+        ]
+    },
+    {
+        "day": 4,
+        "tasks": [
+            {
+                "task_title": 1,
+                "task_description": "Task 1 for day 4"
+            },
+            {
+                "task_title": 2,
+                "task_description": "Task 2 for day 4"
+            },
+            {
+                "task_title": 3,
+                "task_description": "Task 3 for day 4"
+            }
+        ]
+    },
+    {
+        "day": 5,
+        "tasks": [
+            {
+                "task_title": 1,
+                "task_description": "Task 1 for day 5"
+            },
+            {
+                "task_title": 2,
+                "task_description": "Task 2 for day 5"
+            },
+            {
+                "task_title": 3,
+                "task_description": "Task 3 for day 5"
+            }
+        ]
+    }
+]
