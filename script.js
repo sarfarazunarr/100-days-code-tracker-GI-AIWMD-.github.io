@@ -105,3 +105,7 @@ function markAllTasksAsCompleted() {
         document.getElementById('data').classList.replace('block', 'hidden');
     }
 }
+function resetAll(){
+    localStorage.removeItem('completedDays');
+    main();
+}
