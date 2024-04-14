@@ -3,85 +3,792 @@
         "day": 1,
         "tasks": [
             {
-                "task_title": 1,
-                "task_description": "Task 1 for day 1"
+                "task_title": "Task 1",
+                "task_description": "1. Install Node.js, TypeScript, and VS Code on your computer."
             },
             {
-                "task_title": 2,
-                "task_description": "Task 2 for day 1"
+                "task_title": "Task 2",
+                "task_description": "2. Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric, would you like to learn some Python today?”"
             },
             {
-                "task_title": 3,
-                "task_description": "Task 3 for day 1"
+                "task_title": "Task 3",
+                "task_description": "3. Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase."
             }
-        ]
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1213560353032503336"
     },
     {
         "day": 2,
         "tasks": [
             {
-                "task_title": 1,
-                "task_description": "Task 1 for day 2"
+                "task_title": "Task 1",
+                "task_description": "Find a quote from a famous person you admire. Print the quote and the name of its author. Your output should look something like the following, including the quotation marks: Albert Einstein once said, “A person who never made a mistake never tried anything new.”"
             },
             {
-                "task_title": 2,
-                "task_description": "Task 2 for day 2"
+                "task_title": "Task 2",
+                "task_description": "Repeat previous task, but this time store the famous person’s name in a variable called famous_person. Then compose your message and store it in a new variable called message. Print your message."
             },
             {
-                "task_title": 3,
-                "task_description": "Task 3 for day 2"
+                "task_title": "Task 3",
+                "task_description": "Store a person’s name, and include some whitespace characters at the beginning and end of the name. Make sure you use each character combination, \"\\t\" and \"\\n\", at least once. Print the name once, so the whitespace around the name is displayed. Then print the name after stripping the white spaces."
             }
-        ]
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1213741653580316792"
     },
     {
         "day": 3,
         "tasks": [
             {
-                "task_title": 1,
-                "task_description": "Task 1 for day 3"
+                "task_title": "Task 1",
+                "task_description": "Write addition, subtraction, multiplication, and division operations that each result in the number 8. Be sure to enclose your operations in print statements to see the results."
             },
             {
-                "task_title": 2,
-                "task_description": "Task 2 for day 3"
+                "task_title": "Task 2",
+                "task_description": "You should create four line that look like this `console.log(5+3)`. Your output should simply be four lines with the number 8 appearing once on each line."
             },
             {
-                "task_title": 3,
-                "task_description": "Task 3 for day 3"
+                "task_title": "Task 3",
+                "task_description": "Store your favorite number in a variable. Then, using that variable, create a message that reveals your favorite number. Print that message."
             }
-        ]
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1214021537481363466"
     },
     {
         "day": 4,
         "tasks": [
             {
-                "task_title": 1,
-                "task_description": "Task 1 for day 4"
+                "task_title": "Task 1",
+                "task_description": "Adding Comments: Choose two of the programs you’ve written, and add at least one comment to each. If the programs are straightforward at this point, just add your name and the current date at the top of each program file. Then, write one sentence describing what the program does."
             },
             {
-                "task_title": 2,
-                "task_description": "Task 2 for day 4"
+                "task_title": "Task 2",
+                "task_description": "Store the names of a few of your friends in an array called names. Print each person’s name by accessing each element in the list, one at a time."
             },
             {
-                "task_title": 3,
-                "task_description": "Task 3 for day 4"
+                "task_title": "Task 3",
+                "task_description": "Use the array from previous task. Instead of just printing each person’s name, print a message to them. The message should be the same for each person, but personalized with their name."
             }
-        ]
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1214380696072753232"
     },
     {
         "day": 5,
         "tasks": [
             {
-                "task_title": 1,
-                "task_description": "Task 1 for day 5"
+                "task_title": "Task 1",
+                "task_description": "Your Own Array: Think of your favorite mode of transportation, such as a motorcycle or a car, and make a list that stores several examples. Use your list to print a series of statements about these items, such as “I would like to own a Honda motorcycle.”"
             },
             {
-                "task_title": 2,
-                "task_description": "Task 2 for day 5"
+                "task_title": "Task 2",
+                "task_description": "Guest List: If you could invite anyone, living or deceased, to dinner, who would you invite? Make a list that includes at least three people you’d like to invite to dinner. Then use your list to print a message to each person, inviting them to dinner."
             },
             {
-                "task_title": 3,
-                "task_description": "Task 3 for day 5"
+                "task_title": "Task 3",
+                "task_description": "Changing Guest List: One of your guests can't make it to the dinner, so you need to send out a new set of invitations with a replacement guest."
             }
-        ]
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1214660919855153162"
+    },
+    {
+        "day": 6,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "More Guests: You've found a bigger dinner table, so there's room for more guests."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Shrinking Guest List: Unfortunately, your new table won’t arrive in time, and you can only invite two guests."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Seeing the World: Think of at least five places you’d like to visit."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1215174527919718421"
+    },
+    {
+        "day": 7,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Dinner Guests: Use one of your programs from Exercises 14 through 18 to print a message indicating the number of people you are inviting to dinner."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Think of something you could store in an array. For example, you could make a list of mountains, rivers, countries, cities, languages, or anything else you’d like. Write a program that creates a list containing these items."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Think of something you could store in a TypeScript Object. Write a program that creates Objects containing these items."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1215376265490731078"
+    },
+    {
+        "day": 8,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Intentional Error: Try to produce an array index error in one of your programs. Correct the error before finishing."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Conditional Tests: Write a series of conditional tests. Predict the results of each test."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "More Conditional Tests: Expand your conditional tests to cover a wider range of comparisons."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1215739171918839809"
+    },
+    {
+        "day": 9,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Alien Colors #1: Imagine an alien was just shot down in a game. Assign 'green', 'yellow', or 'red' to a variable called alien_color."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Alien Colors #2: Choose a color for an alien, then write an if-else chain."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Alien Colors #3: Convert your if-else chain to handle three colors: green, yellow, red."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1216099177268772964"
+    },
+    {
+        "day": 10,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Stages of Life: Determine a person’s life stage with an if-else chain."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Favorite Fruit: Create an array for your favorite fruits and check if certain fruits are included."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Hello Admin: Greet users differently, especially 'admin'."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1216464345501012020"
+    },
+    {
+        "day": 11,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "No Users: Ensure your user list isn’t empty."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Checking Usernames: Ensure uniqueness in usernames."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Ordinal Numbers: Display numbers with their ordinal suffixes."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1216884920908120247"
+    },
+    {
+        "day": 12,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Pizzas: Share your favorite pizzas and express your love for them."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Animals: Highlight animals with a common trait. \n Explain & TIP: Looping through an array of animals allows you to comment on each one individually. This teaches you how to personalize messages within a loop based on array items."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "T-Shirt: Create a function for customizing t-shirts. \n Explain & TIP: Writing a function that accepts parameters allows you to reuse code efficiently. This introduces you to function parameters and printing dynamic content based on those parameters."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1217186207901941891"
+    },
+    {
+        "day": 13,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Large Shirts: Default values in make_shirt().\nExplain & TIP: Modify functions to have default parameters, simplifying calls for common use cases. This introduces default function parameters."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Cities: Describing cities with a function.\nExplain & TIP: Use functions with default parameters to handle cases where certain data might not change often. This helps in making your code more flexible."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "City Names: Formatting city-country pairs.\nExplain & TIP: Returning formatted strings from functions can simplify data presentation. This exercise practices string formatting and returning values from functions."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1217548378569707601"
+    },
+    {
+        "day": 14,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Album: Create objects for music albums.\nExplain & TIP: Use functions to return objects. This exercise practices creating and manipulating objects, and introducing optional function parameters."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Magicians: Display magician names from an array.\nExplain & TIP: Passing arrays to functions allows for the manipulation or display of their contents in a centralized manner. This is useful for handling lists of data."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Great Magicians: Add 'the Great' to magician names.\nExplain & TIP: Modifying array contents within a function demonstrates how functions can change data. This shows the impact of passing arrays by reference."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1217911118446592000"
+    },
+    {
+        "day": 15,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Unchanged Magicians: Preserve the original magician names while creating a new 'great' list"
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Sandwiches: Summarize sandwich orders with varying ingredients."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Cars: Create detailed car objects with flexible properties.\nExplain & TIP: Functions accepting a mix of fixed and arbitrary parameters let you create detailed and flexible objects. This is ideal for data with a few required fields and many optional fields."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1218351002906923188"
+    },
+    {
+        "day": 16,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Enhanced Laptop Object: Construct an object for a laptop including properties make, model, year, and a method describe() that logs a sentence about the laptop."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Advanced Array Destructuring: Given an array of objects representing different laptops, each with properties make, model, and year, use array destructuring to assign the first and second laptops to variables. Then, log these variables."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Combining Arrays with Spread Operator: Suppose you're comparing prices of two different sets of laptops. Use the spread operator to combine these arrays into a single array sorted in ascending order, then log the result."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1218635202625011713"
+    },
+    {
+        "day": 17,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Function with Rest Parameters: Write a function that takes a rest parameter representing multiple hobbies. It should log each hobby with a statement saying you enjoy that hobby."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Multiline Template Literals: Use template literals to create a multiline string that describes your ideal day. Include at least three different activities."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Refactoring to Arrow Functions: Take a simple function that calculates the area of a rectangle and refactor it into an arrow function."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1219076082389745704"
+    },
+    {
+        "day": 18,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Make a Smartphone Object: Create a simple way to keep track of a smartphone's details. Include its brand, model, and other key features like how much storage it has, the size of its screen, and how long its battery lasts."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Pulling Apart a Nested Object: Imagine you have a list inside another list that shows what a computer programmer knows, like coding languages, tools, and software frameworks. Find a way to get three specific skills from this list and show them."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Making Flexible Object Keys: Learn how to set up a list where you can change the name of each section based on what you need at that moment, like adjusting labels based on user choices."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1219410353427841115"
+    },
+    {
+        "day": 19,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Double Numbers in an Array: Make a list of numbers. Then, use a trick to make a new list where each number is twice its original value."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Keep Only Strings: Given a mix of different types of items, make a new list that has only the words."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Find the Average Grade: Given a list of grades, calculate the average grade."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1219722829587681420"
+    },
+    {
+        "day": 20,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Average Score Calculator: Write a simple program that can take lots of scores and find their average."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Add a Special Number: Make a program that creates custom adders. These adders can add a specific number to any other number you give them later."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Self-Running User Profile: Create a quick, self-setup profile for a user that can tell you the user's name and age."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1220084502462730371"
+    },
+    {
+        "day": 21,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Making Enums for Vehicles: Let's create categories for vehicles like cars, trucks, and motorcycles using enums, and show one example."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Making a Student Template: Create a blueprint for student information, including their name, age, and the classes they're taking, and then fill in this blueprint with an example student."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Shape Shifter: Write a program that can describe either a circle or a rectangle using a special type alias, including properties unique to each shape."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1220451887934083215"
+    },
+    {
+        "day": 22,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Combine Strings and Numbers: Write a function that merges a piece of text with a number. For example, if provided with 'Age: ' and 30, it should give back 'Age: 30'."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Determine the Remainder: Make a function that gets two number and shows the leftover from dividing them using % sign. For example, remainder(5, 2) should give 1."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Logical AND verification: Create a function that checks two boolean (true and false) values. It should only say true if both are true an, using the & operator. For instance, checkBothTrue(true, false) should be false."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1220809500835971123"
+    },
+    {
+        "day": 23,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Arithmetic with Mixed Types: Write a function that takes two parameters: a number and a string that represents a number (e.g., '5'). Return their sum as a number. "
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Multiplying Decimal: Create a function that accepts two arguments (decimal numbers) and returns their product. Round the result to two decimal places."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Dividing and finding the remainder: Write a function that divides two numbers and returns both the quotient and remainder. Use an object to return both values."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1221173151644385382"
+    },
+    {
+        "day": 24,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Understanding let in Loops: Write a function that uses a loop with the let keyword to print numbers from 1 to 5. Explain how the let keyword affects the visibility of the loop variable."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Compare let and const: Create two examples where let allows reassignment but const does not. Try to reassign a const-declared variable and catch the error."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Block Scope with let and const: Demonstrate block scope by creating a code block with {} that uses both let and const. Show how variables declared inside the block are not accessible outside of it."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1221542722289139824"
+    },
+    {
+        "day": 25,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Assigning and Updating Variables: Create a function where you declare a variable using let and assign an initial value. Then, update its value within the same function and log both the initial and updated values."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Swapping Variables: Demonstrate how to swap the values of two variables. Start with variables a = 5 and b = 10, then swap their values so that a becomes 10 and b becomes 5."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Compound Assignment Operators: Use compound assignment operators to simplify arithmetic operations. Start with x = 4 and perform a series of operations (addition, subtraction, multiplication, division) on x using compound operators."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1221946386732548126"
+    },
+    {
+        "day": 26,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Function Parameters and Return Values: Create a function that takes two numbers as parameters, adds them together, and returns the result. Show how you can call this function and log the result."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Default Parameters: Write a function that greets a user. It should take the user's name as a parameter and say hello. If no name is given, it should greet an anonymous user."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Function Expressions vs. Function Declarations: Compare function expressions and declarations by creating one of each that performs the same task, such as squaring a number."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1222260437396226118"
+    },
+    {
+        "day": 27,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Creating and Accessing Object Properties: Construct an object representing a car with properties for make, model, and year. Then, show how you can access the model property of the car."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Updating Object Properties: Add a property named color to the existing car object, and then update the year property to 2021. Show how to perform these operations."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Iterating Over Object Properties: Write a function that takes an object as an argument and logs all of its properties and values."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1222621694183735306"
+    },
+    {
+        "day": 28,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Find the Length of a String: Write a function that takes a string as an argument and returns the number of characters in the string."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Converting to Upper and Lower Case: Create a function that takes a string, converts it to uppercase, then to lowercase, and logs both."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Replacing Text in a String: Write a function that takes a sentence and replaces all instances of the word \"JavaScript\" with \"TypeScript\"."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1222989136340848680"
+    },
+    {
+        "day": 29,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Finding the Position of a Substring: Write a function that locates the first occurrence of the word \"code\" within any given string and returns its position."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Checking for Text Presence: Create a function that checks if the word \"JavaScript\" is present in a given string. It should return true if found, otherwise false."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Extracting a Substring: Demonstrate how to extract the first 10 characters from a string."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1223347024250933432"
+    },
+    {
+        "day": 30,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Rounding to the Nearest Integer: Write a function that takes a decimal number as input and returns the number rounded to the nearest integer."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Converting Strings to Numbers: Create a function that takes a string representing a number (like \"123\") and converts it into an actual number type."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Checking if a Value is NaN: Demonstrate how to check if a variable's value is NaN (Not a Number) and return a boolean result."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1223784036036640870"
+    },
+    {
+        "day": 31,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Create an array of your three favorite fruits and add a new fruit to the end of the array."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Write a function to remove the last element from an array and return the removed element."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Find the index of \"Banana\" in an array of fruits and replace it with \"Mango\"."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1224105042609700896"
+    },
+    {
+        "day": 32,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Use the .map() method to create a new array that contains the length of each word from an array of words."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Write a function that uses the .filter() method to return an array of numbers greater than 10."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Demonstrate how to use the .reduce() method to calculate the sum of all numbers in an array."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1224435992984027136"
+    },
+    {
+        "day": 33,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Write a function that returns the current date in the format \"DD-MM-YYYY\"."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Create a JavaScript snippet that calculates and logs how many days are left until New Year."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Generate a date object representing your next birthday and log it to the console."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1224796032559353886"
+    },
+    {
+        "day": 34,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Use the JavaScript Math object to find the square root of 144."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Question 101: Generate a random integer between 1 and 10."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Calculate and log the absolute difference between the number -5 and 5."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1225232619697082398"
+    },
+    {
+        "day": 35,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Write a function that returns a random boolean value, true or false."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Create a function that generates a random hexadecimal color code."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Simulate a dice roll using JavaScript and return a random integer between 1 and 6."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1225538031738425344"
+    },
+    {
+        "day": 36,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Determine if a given year is a leap year using comparison operators."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Write a condition using logical operators that checks if a number is divisible by both 2 and 3."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Compare two strings to check if they are identical, ignoring case sensitivity."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1225931660902535278"
+    },
+    {
+        "day": 37,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Write an if statement that logs \"Good Morning\" if the current time is before 12 PM."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Create a function that assigns a grade (A, B, C, D, F) based on a student's score."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Use an if-else-if chain to categorize a person's age group (child, teenager, adult)."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1226246902002090036"
+    },
+    {
+        "day": 38,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Create a Map that stores the names of countries as keys and their capitals as values. Add three countries to the Map."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Write a function that checks if a Map contains a key for \"Canada\" and logs the capital if it exists."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Iterate over a Map of student IDs and names, and log each pair to the console."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1226613414487523430"
+    },
+    {
+        "day": 39,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Use a switch statement to log the days of the week based on a number (1-7)."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Create a switch case that matches several cases to the same code block, representing seasons."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Implement a switch statement that evaluates an expression and uses the default case if none of the cases match."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1226993845732905041"
+    },
+    {
+        "day": 40,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Write a loop that logs numbers from 1 to 10 to the console."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Create a while loop that logs \"Hello World\" 5 times."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Use a for...of loop to iterate through an array of your favorite movies and log each one."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1227335527309639681"
+    },
+    {
+        "day": 41,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Implement a for loop that counts from 1 to 10 but skips number 5 using continue statement."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Use a while loop to count down from 10 to 1 and break the loop when it reaches 5."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Create a loop that iterates through a string and stops when it finds the first vowel."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1227697013840154724"
+    },
+    {
+        "day": 42,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Create a function inside an object that returns the object's own name property using the `this` keyword."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Modify a method in an object to use `this` to access another in the same object."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Explain how the `this` keyword changes its values when used inside a nested function within a method."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1228057245158477895"
+    },
+    {
+        "day": 43,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Convert a traditional function expression to an arrow function."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Create an arrow function that takes multiple parameters and returns the product of all parameters."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Explain how `this` behaves differently in an arrow function compared to a traditional function."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1228561716586090577"
+    },
+    {
+        "day": 44,
+        "tasks": [
+            {
+                "task_title": "Task 1",
+                "task_description": "Explain how to export a function from one JavaScript file and import it into another file."
+            },
+            {
+                "task_title": "Task 2",
+                "task_description": "Create two modules; one that exports a class, and another that imports the class and creates an instance."
+            },
+            {
+                "task_title": "Task 3",
+                "task_description": "Discuss the difference between default and named exports in JavaScript modules."
+            }
+        ],
+        "discordLink": "https://discord.com/channels/790484092772548613/1213470037353046066/1228782458145734737"
     }
 ]

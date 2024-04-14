@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="https://portal.governorsindh.com/_next/static/media/giaic.9ff76f62.png"
+        type="image/x-icon">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Contact</title>
+</head>
+
+<body class="bg-gray-950">
+    <main class="flex justify-center align-middle">
+        <section class="w-[95%] md:w-[30%] mt-14 bg-gray-900 p-5 rounded-md">
+
+            <h3 class="text-center text-white text-4xl md:text-3xl font-bold">Send Message</h3>
+            <p class="text-center text-sm text-gray-300 ">Need Any Help? Or Found a Bug Send Message</p>
+            <form action="https://api.web3forms.com/submit" method="POST" id="form" class="bg-transparent w-full md:w-[90%] p-5 mx-auto">
+                <input type="hidden" name="access_key" value="517db9cc-d3bd-4c64-aa98-c44673e8460d" />
+                <input type="hidden" name="subject" value="Message from 100 Days Challenger" />
+                <input type="checkbox" name="botcheck" id="" style="display: none;" />
+                <input type="text" class="bg-transparent focus:border-2 focus:border-green-400 outline-none border-2 p-2 w-full my-2 border-white text-white rounded-md" id="name" name="name" placeholder="Enter Your Name">
+                <input type="email" class="bg-transparent focus:border-2 focus:border-green-400 outline-none border-2 p-2 w-full my-2 border-white text-white rounded-md" id="email" name="email" placeholder="Enter Your Email">
+                <textarea name="message" class="bg-transparent focus:border-2 focus:border-green-400 outline-none border-2 p-2 w-full my-2 border-white text-white rounded-md" id="message" rows="4" placeholder="Enter Message"></textarea>
+                <button type="submit" class="bg-green-800 focus:border-2 outline-none border-2 p-2 w-full my-2 border-transparent hover:bg-transparent hover:border-green-400 text-white rounded-md">Send Message</button>
+            </form>
+            <p class="text-base text-center text-gray-400" id="result"></p>
+            <a href="/aboutme" class="block no-underline text-green-500 text-sm text-center hover:underline duration-200">About Me!</a>
+        </section>
+    </main>
+</body>
+<script src="form.js"></script>
+
+</html>
